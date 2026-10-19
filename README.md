@@ -1,4 +1,4 @@
-![SmartySDR Logo](smartysdr.png)
+![SmartySDR Logo](logo smartysdr.png)
 # SmartySDR for Android
 
 **Your FlexRadio station and logbook, in your hand.**
