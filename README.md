@@ -80,24 +80,24 @@ Donations are welcome and help support continued development, testing and improv
 Thank you for supporting my work! — Kes, M0PKZ
 
 
-<h2>📸 SmartySDR Screenshots</h2>
+<h2 align="center">📸 SmartySDR Screenshots</h2>
 
 <table>
   <tr>
-    <td><img src="images/1.jpg" width="100%"></td>
-    <td><img src="images/2.jpg" width="100%"></td>
+    <td width="50%"><img src="images/1.jpeg" width="100%"></td>
+    <td width="50%"><img src="images/2.jpeg" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="images/3.jpg" width="100%"></td>
-    <td><img src="images/4.jpg" width="100%"></td>
+    <td><img src="images/3.jpeg" width="100%"></td>
+    <td><img src="images/4.jpeg" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="images/5.jpg" width="100%"></td>
-    <td><img src="images/6.jpg" width="100%"></td>
+    <td><img src="images/5.jpeg" width="100%"></td>
+    <td><img src="images/6.jpeg" width="100%"></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="images/7.jpg" width="50%">
+      <img src="images/7.jpeg" width="50%">
     </td>
   </tr>
 </table>
