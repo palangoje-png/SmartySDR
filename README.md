@@ -4,7 +4,7 @@
 
 # SmartySDR for Android
 
-**Your FlexRadio station and logbook, in your hand.**
+**Your FlexRadio station, digital modes, cw decoder, logbook and more in your hand.**
 
 SmartySDR combines live radio control, a panadapter and waterfall, voice operation, CW decoding and macros, FT digital modes, and a portable logbook in one Android app. Connect to your compatible FlexRadio locally or through SmartLink—or open the logbook on its own while operating another radio.
 
