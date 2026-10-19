@@ -73,5 +73,5 @@ Thank you for supporting my work! — Kes, M0PKZ
 
 
 <p align="center">
-  <img src="1.jog" alt="SmartySDR Logo" width="250">
+  <img src="https://github.com/palangoje-png/SmartySDR/blob/main/1.jpeg" alt="SmartySDR Logo" width="250">
 </p>
