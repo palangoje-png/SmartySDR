@@ -70,3 +70,8 @@ Donations are welcome and help support continued development, testing and improv
 
 
 Thank you for supporting my work! — Kes, M0PKZ
+
+
+<p align="center">
+  <img src="1.jog" alt="SmartySDR Logo" width="250">
+</p>
