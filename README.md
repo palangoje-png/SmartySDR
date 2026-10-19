@@ -72,6 +72,19 @@ Donations are welcome and help support continued development, testing and improv
 Thank you for supporting my work! — Kes, M0PKZ
 
 
-<p align="center">
-  <img src="https://github.com/palangoje-png/SmartySDR/blob/main/1.jpeg" alt="SmartySDR Logo" width="250">
-</p>
+
+<h2 align="center">📸 SmartySDR Screenshots</h2>
+
+<div align="center">
+  <img src="images/1.jpg" alt="SmartySDR Screenshot 1" width="48%">
+  <img src="images/2.jpg" alt="SmartySDR Screenshot 2" width="48%">
+
+  <img src="images/3.jpg" alt="SmartySDR Screenshot 3" width="48%">
+  <img src="images/4.jpg" alt="SmartySDR Screenshot 4" width="48%">
+
+  <img src="images/5.jpg" alt="SmartySDR Screenshot 5" width="48%">
+  <img src="images/6.jpg" alt="SmartySDR Screenshot 6" width="48%">
+
+  <img src="images/7.jpg" alt="SmartySDR Screenshot 7" width="75%">
+</div>
+
