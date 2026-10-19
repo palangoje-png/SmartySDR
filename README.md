@@ -1,7 +1,5 @@
 <div align="center">
-  <h3>❤️ Support SmartySDR Development</h3>
-  <p>If you enjoy SmartySDR, consider supporting its development, with a BIG thank you Kes-m0pkz.</p>
-
+  <h3>❤️ If you enjoy SmartySDR, support SmartySDR Development. Thank you, Kes-m0pkz</h3>
   <a href="https://paypal.me/KestutisZobelius?locale.x=en_GB&amp;country.x=GB">
     <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&amp;logo=paypal&amp;logoColor=white"
          alt="Donate with PayPal">
