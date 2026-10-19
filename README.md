@@ -57,6 +57,16 @@ Android 8.0/API 26 is the declared minimum. Platform microphone Opus support and
 
 Donations are welcome and help support continued development, testing and improvements to SmartySDR.
 
-**[Donate with PayPal](https://paypal.me/KestutisZobelius?locale.x=en_GB&country.x=GB)**
+
+<div align="center">
+  <h3>❤️ Support SmartySDR Development</h3>
+  <p>If you enjoy SmartySDR, consider supporting its development.</p>
+
+  <a href="https://paypal.me/KestutisZobelius?locale.x=en_GB&amp;country.x=GB">
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&amp;logo=paypal&amp;logoColor=white"
+         alt="Donate with PayPal">
+  </a>
+</div>
+
 
 Thank you for supporting my work! — Kes, M0PKZ
