@@ -79,38 +79,25 @@ Donations are welcome and help support continued development, testing and improv
 
 Thank you for supporting my work! — Kes, M0PKZ
 
-<h2 align="center">📸 SmartySDR Screenshots</h2>
 
-<p align="center">
-  <a href="https://github.com/palangoje-png/SmartySDR/blob/main/1.jpeg">
-    <img src="1.jpeg" width="48%" alt="Screenshot 1">
-  </a>
-  <a href="https://github.com/palangoje-png/SmartySDR/blob/main/2.jpeg">
-    <img src="2.jpeg" width="48%" alt="Screenshot 2">
-  </a>
-</p>
+<h2>📸 SmartySDR Screenshots</h2>
 
-<p align="center">
-  <a href="https://github.com/palangoje-png/SmartySDR/blob/main/3.jpeg">
-    <img src="3.jpeg" width="48%" alt="Screenshot 3">
-  </a>
-  <a href="https://github.com/palangoje-png/SmartySDR/blob/main/4.jpeg">
-    <img src="4.jpeg" width="48%" alt="Screenshot 4">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/palangoje-png/SmartySDR/blob/main/5.jpeg">
-    <img src="5.jpeg" width="48%" alt="Screenshot 5">
-  </a>
-  <a href="https://github.com/palangoje-png/SmartySDR/blob/main/6.jpeg">
-    <img src="6.jpeg" width="48%" alt="Screenshot 6">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/palangoje-png/SmartySDR/blob/main/7.jpeg">
-    <img src="7.jpeg" width="75%" alt="Screenshot 7">
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td><img src="images/1.jpg" width="100%"></td>
+    <td><img src="images/2.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="images/3.jpg" width="100%"></td>
+    <td><img src="images/4.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="images/5.jpg" width="100%"></td>
+    <td><img src="images/6.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="images/7.jpg" width="50%">
+    </td>
+  </tr>
+</table>
