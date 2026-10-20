@@ -10,7 +10,8 @@
   <img src="logo%20smartysdr.png" alt="SmartySDR Logo" width="250">
 </p>
 
-# SmartySDR for Android - Voice, FT8, FT4, FT2, CW+decode, FreDV v1 & V2, Logbook, QRZ.COM lookup & reql time upload, DX Cluster and more.
+# SmartySDR for Android -
+Voice, FT8, FT4, FT2, CW+decode, FreDV v1 & V2, Logbook, QRZ.COM lookup & real time upload, DX Cluster and more.
 
 **Your FlexRadio station, digital modes, cw decoder, logbook and more in your hand.**
 
