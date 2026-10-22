@@ -5,7 +5,6 @@
          alt="Donate with PayPal">
   </a>
 </div>
-
 <p align="center">
   <img src="logo%20smartysdr.png" alt="SmartySDR Logo" width="250">
 </p>
