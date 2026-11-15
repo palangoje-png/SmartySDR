@@ -7,7 +7,7 @@
   </a>
 </div>
 <p align="center">
-  <img src="logo%20smartysdr.png" alt="SmartySDR Logo" width="250">
+  <img src="logo.jpg" alt="SmartySDR Logo" width="250">
 </p>
 
 #                        SmartySDR for Android - Let's make it simple!
