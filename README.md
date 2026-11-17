@@ -80,25 +80,81 @@ Donations are welcome and help support continued development, testing and improv
 
 Thank you for supporting my work! — Kes, M0PKZ
 
-
 <h2 align="center">📸 SmartySDR Screenshots</h2>
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%"><img src="images/1.jpeg" width="100%"></td>
-    <td width="50%"><img src="images/2.jpeg" width="100%"></td>
+    <td width="50%">
+      <img src="images/1.png" width="100%" alt="SmartySDR Screenshot 1">
+    </td>
+    <td width="50%">
+      <img src="images/2.png" width="100%" alt="SmartySDR Screenshot 2">
+    </td>
   </tr>
+
   <tr>
-    <td><img src="images/3.jpeg" width="100%"></td>
-    <td><img src="images/4.jpeg" width="100%"></td>
+    <td width="50%">
+      <img src="images/3.png" width="100%" alt="SmartySDR Screenshot 3">
+    </td>
+    <td width="50%">
+      <img src="images/4.png" width="100%" alt="SmartySDR Screenshot 4">
+    </td>
   </tr>
+
   <tr>
-    <td><img src="images/5.jpeg" width="100%"></td>
-    <td><img src="images/6.jpeg" width="100%"></td>
+    <td width="50%">
+      <img src="images/5.png" width="100%" alt="SmartySDR Screenshot 5">
+    </td>
+    <td width="50%">
+      <img src="images/6.png" width="100%" alt="SmartySDR Screenshot 6">
+    </td>
   </tr>
+
   <tr>
-    <td colspan="2" align="center">
-      <img src="images/7.jpeg" width="50%">
+    <td width="50%">
+      <img src="images/7.png" width="100%" alt="SmartySDR Screenshot 7">
+    </td>
+    <td width="50%">
+      <img src="images/8.png" width="100%" alt="SmartySDR Screenshot 8">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <img src="images/9.png" width="100%" alt="SmartySDR Screenshot 9">
+    </td>
+    <td width="50%">
+      <img src="images/10.png" width="100%" alt="SmartySDR Screenshot 10">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <img src="images/11.png" width="100%" alt="SmartySDR Screenshot 11">
+    </td>
+    <td width="50%">
+      <img src="images/12.png" width="100%" alt="SmartySDR Screenshot 12">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <img src="images/13.png" width="100%" alt="SmartySDR Screenshot 13">
+    </td>
+    <td width="50%">
+      <img src="images/14.png" width="100%" alt="SmartySDR Screenshot 14">
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <img src="images/15.png" width="100%" alt="SmartySDR Screenshot 15">
+    </td>
+    <td width="50%">
+      <img src="images/16.png" width="100%" alt="SmartySDR Screenshot 16">
     </td>
   </tr>
 </table>
+
+
+
