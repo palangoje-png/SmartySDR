@@ -69,7 +69,7 @@ Donations are welcome and help support continued development, testing and improv
 <h2 align="center">🎬 SmartySDR Demonstration Video</h2>
 
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=mBEDRsRtRBI)">
+  <a href="https://www.youtube.com/watch?v=mBEDRsRtRBI">
     <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg"
          alt="Watch SmartySDR Video"
          width="800">
