@@ -77,82 +77,43 @@ Donations are welcome and help support continued development, testing and improv
   </a>
 </div>
 
-
 Thank you for supporting my work! — Kes, M0PKZ
+
 
 <h2 align="center">📸 SmartySDR Screenshots</h2>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <img src="images/1.png" width="100%" alt="SmartySDR Screenshot 1">
-    </td>
-    <td width="50%">
-      <img src="images/2.png" width="100%" alt="SmartySDR Screenshot 2">
-    </td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/1.png" width="100%" alt="SmartySDR Screenshot 1"></td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/2.png" width="100%" alt="SmartySDR Screenshot 2"></td>
   </tr>
-
   <tr>
-    <td width="50%">
-      <img src="images/3.png" width="100%" alt="SmartySDR Screenshot 3">
-    </td>
-    <td width="50%">
-      <img src="images/4.png" width="100%" alt="SmartySDR Screenshot 4">
-    </td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/3.png" width="100%" alt="SmartySDR Screenshot 3"></td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/4.png" width="100%" alt="SmartySDR Screenshot 4"></td>
   </tr>
-
   <tr>
-    <td width="50%">
-      <img src="images/5.png" width="100%" alt="SmartySDR Screenshot 5">
-    </td>
-    <td width="50%">
-      <img src="images/6.png" width="100%" alt="SmartySDR Screenshot 6">
-    </td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/5.png" width="100%" alt="SmartySDR Screenshot 5"></td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/6.png" width="100%" alt="SmartySDR Screenshot 6"></td>
   </tr>
-
   <tr>
-    <td width="50%">
-      <img src="images/7.png" width="100%" alt="SmartySDR Screenshot 7">
-    </td>
-    <td width="50%">
-      <img src="images/8.png" width="100%" alt="SmartySDR Screenshot 8">
-    </td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/7.png" width="100%" alt="SmartySDR Screenshot 7"></td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/8.png" width="100%" alt="SmartySDR Screenshot 8"></td>
   </tr>
-
   <tr>
-    <td width="50%">
-      <img src="images/9.png" width="100%" alt="SmartySDR Screenshot 9">
-    </td>
-    <td width="50%">
-      <img src="images/10.png" width="100%" alt="SmartySDR Screenshot 10">
-    </td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/9.png" width="100%" alt="SmartySDR Screenshot 9"></td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/10.png" width="100%" alt="SmartySDR Screenshot 10"></td>
   </tr>
-
   <tr>
-    <td width="50%">
-      <img src="images/11.png" width="100%" alt="SmartySDR Screenshot 11">
-    </td>
-    <td width="50%">
-      <img src="images/12.png" width="100%" alt="SmartySDR Screenshot 12">
-    </td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/11.png" width="100%" alt="SmartySDR Screenshot 11"></td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/12.png" width="100%" alt="SmartySDR Screenshot 12"></td>
   </tr>
-
   <tr>
-    <td width="50%">
-      <img src="images/13.png" width="100%" alt="SmartySDR Screenshot 13">
-    </td>
-    <td width="50%">
-      <img src="images/14.png" width="100%" alt="SmartySDR Screenshot 14">
-    </td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/13.png" width="100%" alt="SmartySDR Screenshot 13"></td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/14.png" width="100%" alt="SmartySDR Screenshot 14"></td>
   </tr>
-
   <tr>
-    <td width="50%">
-      <img src="images/15.png" width="100%" alt="SmartySDR Screenshot 15">
-    </td>
-    <td width="50%">
-      <img src="images/16.png" width="100%" alt="SmartySDR Screenshot 16">
-    </td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/15.png" width="100%" alt="SmartySDR Screenshot 15"></td>
+    <td width="50%"><img src="https://github.com/palangoje-png/SmartySDR/blob/main/Images/16.png" width="100%" alt="SmartySDR Screenshot 16"></td>
   </tr>
 </table>
 
