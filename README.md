@@ -66,20 +66,6 @@ Android 8.0/API 26 is the declared minimum. Platform microphone Opus support and
 
 Donations are welcome and help support continued development, testing and improvements to SmartySDR.
 
-<h2 align="center">🎬 SmartySDR Demonstration Video</h2>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=mBEDRsRtRBI">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg"
-         alt="Watch SmartySDR Video"
-         width="800">
-  </a>
-</p>
-
-<p align="center">
-  <b>▶ Click the image above to watch the video on YouTube</b>
-</p>
-
 <div align="center">
   <h3>❤️ Support SmartySDR Development</h3>
   <p>If you enjoy SmartySDR, consider supporting its development.</p>
@@ -89,9 +75,23 @@ Donations are welcome and help support continued development, testing and improv
          alt="Donate with PayPal">
   </a>
 </div>
-
 Thank you for supporting my work! — Kes, M0PKZ
 
+## 🎬 SmartySDR Video Demonstration
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=mBEDRsRtRBI">
+    <img src="https://img.youtube.com/vi/mBEDRsRtRBI/hqdefault.jpg" 
+         alt="SmartySDR YouTube Video"
+         width="800">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=mBEDRsRtRBI">
+    ▶️ <b>WATCH SMARTYSDR VIDEO ON YOUTUBE</b>
+  </a>
+</p>
 
 <h2 align="center">📸 SmartySDR Screenshots</h2>
 
