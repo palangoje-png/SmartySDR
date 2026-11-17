@@ -11,7 +11,7 @@
 </p>
 
 #                        SmartySDR for Android - Let's make it simple!
-# Voice, FT8, FT4, FT2, CW+decode, FreeDV v1 & V2, Logbook, QRZ.COM lookup & real time upload, DX Cluster and more.
+# Voice, FT8, FT4, FT2, CW+decode, FreeDV v1 & V2, Logbook with sync via SFTP, QRZ.COM lookup & real-time upload, antenna rotator control, DX Cluster and much more.
 
 **Your FlexRadio station, digital modes, cw decoder, logbook and more in your hand.**
 
@@ -34,13 +34,13 @@ SmartySDR combines live radio control, a panadapter and waterfall, voice operati
 - **Separate macros:
 - ** CW and voice have independent macro banks. CW macros can insert the selected DX callsign.
 - ** Fully working FT8,FT4 and FT2.  FreeDV Rade V1 & V2 modes (still in progress for testing):
-- ** integrated receive/transmit workspace, band/mode frequencies, decoded station selection, CQ and QSO sequencing, halt controls, UTC checks and DAX diagnostics.
+- ** Integrated receive/transmit workspace, band/mode frequencies, decoded station selection, CQ and QSO sequencing, halt controls, UTC checks and DAX diagnostics.
 - **Integrated logging:** save contacts from operating screens and enrich them through configured QRZ services.
 
 ## One logbook, at home or portable
 
 - Open the logbook without connecting to a radio.
-- Enter callsign, name, QTH, frequency, mode and reports; save with current UTC date/time.
+- Enter callsign, name, QTH, frequency, mode and reports; save with the current UTC date/time.
 - Select a band to suggest a frequency for the current mode, or enter the actual frequency manually.
 - View station photographs and a location map when available from the configured lookup service.
 - Browse and edit Recent QSOs; import, export and share ADIF logs.
