@@ -80,7 +80,7 @@ Thank you for supporting my work! — Kes, M0PKZ
 ## 🎬 SmartySDR Video Demonstration
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=mBEDRsRtRBI">
+  <a href="https://www.youtube.com/watch?v=S-TodMLz8KY">
     <img src="https://img.youtube.com/vi/mBEDRsRtRBI/hqdefault.jpg" 
          alt="SmartySDR YouTube Video"
          width="800">
