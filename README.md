@@ -9,11 +9,7 @@
 <p align="center">
   <img src="logo.jpg" alt="SmartySDR Logo" width="250">
 </p>
-📥 Download SmartySDR
-
-""Download Latest Release" (https://img.shields.io/github/v/release/palangoje-png/SmartySDR?label=Download%20Latest%20APK&style=for-the-badge&color=brightgreen)" (https://github.com/palangoje-png/SmartySDR/releases/latest)
-
-Download the latest version of SmartySDR for Android.
+📥 Download the latest version of SmartySDR for Android.
 
 "⬇️ Download Latest APK" (https://github.com/palangoje-png/SmartySDR/releases/latest)
 
