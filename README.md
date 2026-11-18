@@ -9,6 +9,13 @@
 <p align="center">
   <img src="logo.jpg" alt="SmartySDR Logo" width="250">
 </p>
+📥 Download SmartySDR
+
+""Download Latest Release" (https://img.shields.io/github/v/release/palangoje-png/SmartySDR?label=Download%20Latest%20APK&style=for-the-badge&color=brightgreen)" (https://github.com/palangoje-png/SmartySDR/releases/latest)
+
+Download the latest version of SmartySDR for Android.
+
+"⬇️ Download Latest APK" (https://github.com/palangoje-png/SmartySDR/releases/latest)
 
 #                        SmartySDR for Android - Let's make it simple!
 # Voice, FT8, FT4, FT2, CW+decode, FreeDV v1 & V2, Logbook with sync via SFTP, QRZ.COM lookup & real-time upload, antenna rotator control, DX Cluster and much more.
