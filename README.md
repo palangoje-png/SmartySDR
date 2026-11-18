@@ -90,12 +90,6 @@ Thank you for supporting my work! — Kes, M0PKZ
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=mBEDRsRtRBI">
-    ▶️ <b>WATCH SMARTYSDR VIDEO ON YOUTUBE</b>
-  </a>
-</p>
-
 <h2 align="center">📸 SmartySDR Screenshots</h2>
 
 <table align="center" width="100%">
