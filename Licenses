@@ -1,0 +1,42 @@
+SmartySDR – Freeware Proprietary Software Licence
+Copyright © 2026 by Kes - m0pkz. All Rights Reserved.
+1. Ownership
+SmartySDR ("the Software") is proprietary software. All rights, title and interest in the original software, application design, interface, graphics and associated materials remain with their respective copyright owners.
+No ownership rights are transferred to users by downloading or installing the Software.
+2. Permission to Use
+The copyright holder grants users a free, personal, non-exclusive, non-transferable and revocable licence to:
+Download SmartySDR from its official GitHub repository.
+Install and run the compiled Android APK.
+Use the Software for personal, non-commercial amateur radio purposes.
+No payment is required for this permission.
+3. Restrictions
+Unless expressly authorised in writing by the copyright holder, users must not:
+Copy, modify, adapt or create derivative versions of SmartySDR.
+Reverse engineer, decompile or disassemble the Software, except where such restriction is prohibited by applicable law.
+Redistribute, republish or mirror the APK or any part of the Software.
+Sell, rent, sublicense or commercially exploit the Software.
+Remove or alter copyright notices, trademarks or proprietary notices.
+Present modified or unofficial versions as the official SmartySDR application.
+4. Source Code
+The SmartySDR source code is proprietary and is not publicly distributed under this licence.
+Access to the compiled APK does not grant any right to access, obtain or distribute the original source code.
+5. Third-Party Software
+SmartySDR may communicate with or utilise third-party software, APIs, protocols and libraries, including FlexRadio technologies.
+Such third-party components remain the property of their respective owners and are governed by their own applicable licences and terms.
+This licence does not claim ownership of, or grant rights to, any third-party intellectual property.
+6. Disclaimer of Warranty
+SmartySDR is provided free of charge and "AS IS", without warranties of any kind, to the fullest extent permitted by applicable law.
+Nothing in this licence excludes or limits any rights or remedies that cannot legally be excluded or limited.
+7. Limitation of Liability
+To the fullest extent permitted by applicable law, the copyright holder shall not be liable for indirect or consequential loss arising from the use of the Software.
+Nothing in this section excludes liability that cannot legally be excluded under applicable law.
+8. Termination
+This licence terminates automatically if a user materially breaches its terms.
+Upon termination, the user must stop using the Software and delete copies in their possession, to the extent permitted by applicable law.
+9. Applicable Law
+This licence shall be governed by the laws of England and Wales, subject to any mandatory consumer protection laws that apply.
+10. Contact and Permissions
+For written permission, licensing enquiries, redistribution requests or other authorised uses, please contact the SmartySDR copyright holder.
+SmartySDR – Freeware Proprietary Software
+Official distribution: https://github.com/palangoje-png/SmartySDR
+Copyright © 2026 Kes-m0pkz. All Rights Reserved.
