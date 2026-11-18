@@ -81,7 +81,7 @@ Thank you for supporting my work! — Kes, M0PKZ
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=S-TodMLz8KY">
-    <img src="https://img.youtube.com/vi/mBEDRsRtRBI/hqdefault.jpg" 
+    <img src="https://img.youtube.com/vi/S-TodMLz8KY/hqdefault.jpg" 
          alt="SmartySDR YouTube Video"
          width="800">
   </a>
